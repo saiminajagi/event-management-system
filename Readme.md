@@ -1,1 +1,1 @@
-This is Evebt Management Protal
+This is Event Management Protal
